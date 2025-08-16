@@ -1,4 +1,4 @@
-package HealthCheckAndroid
+package main
 
 import (
 	"fmt"
